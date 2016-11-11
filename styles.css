@@ -118,3 +118,8 @@ body {
 @media screen and (max-width: 290px) {
     .weekdays li, .days li {width: 12.2%;}
 }
+
+.cal {
+margin :auto;
+width:600px;
+}
